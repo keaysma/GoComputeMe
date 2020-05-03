@@ -1,0 +1,1 @@
+emcc -o wasm-output/hello.html hello.cpp
